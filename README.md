@@ -4,7 +4,7 @@
 | Topic        |      Video     |  Presentation |
 | ------------- |:-------------:| -----:|
 |Keynote: Closing Remarks - KubeCon + CloudNativeCon North America 2019 - Vicki Cheung & Bryan Liles|[Watch Here](https://www.youtube.com/watch?v=uny8jpLn788)|-|
-|Keynote: Finding the Joy in Chaos Engineering - Ana Medina & Lenny Sharpe|[Watch Here](https://www.youtube.com/watch?v=dsCMfi5YPnE)|../slides/keynote-finding-the-joy-in-chaos-engineering-ana-medina-chaos-engineer-gremlin-lenny-sharpe-director-of-engineering-target.pdf|
+|Keynote: Finding the Joy in Chaos Engineering - Ana Medina & Lenny Sharpe|[Watch Here](https://www.youtube.com/watch?v=dsCMfi5YPnE)| [Slides](../slides/keynote-finding-the-joy-in-chaos-engineering-ana-medina-chaos-engineer-gremlin-lenny-sharpe-director-of-engineering-target.pdf)|
 |Keynote: Seamless Customer Experience at Walmart Stores Powered b... Maneesh Vittolia & Sriram Komma|[Watch Here](https://www.youtube.com/watch?v=sfPFrvDvdlk)|-|
 |Keynote: Hello From the Other Side: Dispatches From a Kubernetes Attacker - Ian Coldwater|[Watch Here](https://www.youtube.com/watch?v=3jGNjan6I3Y)|-|
 |Keynote: In Search of the Kubernetes "Rails" Moment - Bryan Liles|[Watch Here](https://www.youtube.com/watch?v=ZqQTEdHVaCw)|-|
