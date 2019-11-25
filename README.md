@@ -1,28 +1,8 @@
 
-## Lightning Talks
-
-| Topic        |      Video     |  Presentation |
-| ------------- |:-------------:| -----:|
-|Lightning Talk: Want to Donate a Project to the CNCF? Here's How - Cheryl Hung, CNCF|[Watch Here](https://www.youtube.com/watch?v=WS0OcCUt4io)|-|
-|Lightning Talk: Easily Observing Operators - Lili Cosic, Red Hat|[Watch Here](https://www.youtube.com/watch?v=-ioN-apfQFc)|-|
-|Lightning Talk: Is Your Kubernetes Cluster's DNS Working? - Jonathan Perry, Flowmill|[Watch Here](https://www.youtube.com/watch?v=thBCB7YeZ2g)|-|
-|Lightning Talk: Open Match - Matchmaking Framework - Robert Bailey, Google|[Watch Here](https://www.youtube.com/watch?v=OEkCaHTLpA8)|-|
-|Lightning Talk: CRDs All the Way Down – Using OPA for Complex CRD Validation and... Puja Abbassi|[Watch Here](https://www.youtube.com/watch?v=DUe_8nf42Ik)|-|
-|Lightning Talk: How the Observability Team at Spotify Radically Decreased... Lauren Muhlhauser|[Watch Here](https://www.youtube.com/watch?v=AA8e5v43AcU)|-|
-|Lightning Talk: Sharing a GPU Among Multiple Containers - Patrick McQuighan, Algorithmia|[Watch Here](https://www.youtube.com/watch?v=VNZsooht3K8)|-|
-|Lightning Talk: Code Kubernetes While You Are Using It - Mario Loriedo, Red Hat|[Watch Here](https://www.youtube.com/watch?v=W--8Ga9G63k)|-|
-|Lightning Talk: Kuber-What-Es?! Misadventures in Building UIs for K8s-Based ML... Alexandra Johnson|[Watch Here](https://www.youtube.com/watch?v=Vr9X_W0wS64)|-|
-|Lightning Talk: Get Started With Non-Code Contributions to Kubernetes - David Strebel, Microsoft|[Watch Here](https://www.youtube.com/watch?v=AWdhli9rhWQ)|-|
-|Lightning Talk: Boosting Your kubectl Productivity - Mauricio Salatino, LearnK8s|[Watch Here](https://www.youtube.com/watch?v=vVAFctQP1Vg)|-|
-|Lightning Talk: What Makes a Good Multi-tenant Kubernetes Solution? - Victor Varza, Adobe|[Watch Here](https://www.youtube.com/watch?v=39FLsSc2P-Y)|-|
-
-
 ## Keynote
  
 | Topic        |      Video     |  Presentation |
 | ------------- |:-------------:| -----:|
-
-
 |Keynote: Closing Remarks - KubeCon + CloudNativeCon North America 2019 - Vicki Cheung & Bryan Liles|[Watch Here](https://www.youtube.com/watch?v=uny8jpLn788)|-|
 |Keynote: Finding the Joy in Chaos Engineering - Ana Medina & Lenny Sharpe|[Watch Here](https://www.youtube.com/watch?v=dsCMfi5YPnE)|-|
 |Keynote: Seamless Customer Experience at Walmart Stores Powered b... Maneesh Vittolia & Sriram Komma|[Watch Here](https://www.youtube.com/watch?v=sfPFrvDvdlk)|-|
@@ -44,12 +24,10 @@
 |Keynote: CNCF Project Updates - Bryan Liles, KubeCon + CloudNativeCon North America 2019 Co-Chair|[Watch Here](https://www.youtube.com/watch?v=two3TzF9mVY)|-|
 |Keynote: CNCF Updates - Cheryl Hung, Director of Ecosystem, Cloud Native Computing Foundation|[Watch Here](https://www.youtube.com/watch?v=Sjjwv6chZr0)|-|
 
-
 ## Tutorial
  
 | Topic        |      Video     |  Presentation |
 | ------------- |:-------------:| -----:|
-
 |Tutorial: Attacking and Defending Kube... Brad Geesaman, Jimmy Mesta, Tabitha Sable & Peter Benjamin|[Watch Here](https://www.youtube.com/watch?v=UdMFTdeAL1s)|-|
 |Tutorial: Service Mesh for the Developer Workflow - Christian Posta & Nic Jackson|[Watch Here](https://www.youtube.com/watch?v=uC2O36QKUlc)|-|
 |Tutorial: Debug Your Kubernetes Apps - Arun Gupta & Re Alvarez Parmar, Amazon|[Watch Here](https://www.youtube.com/watch?v=058bKrbw8jg)|-|
@@ -61,10 +39,8 @@
 |Tutorial: Everything You Need To Become a GitOps Ninja - Alex Collins & Alexander Matyushentsev|[Watch Here](https://www.youtube.com/watch?v=r50tRQjisxw)|-|
 
 ## Networking
- 
 | Topic        |      Video     |  Presentation |
 | ------------- |:-------------:| -----:|
-
 |Rethinking the K8s DNS for the Modern Enterprise - Deepa Kalani & Venil Noronha, VMware|[Watch Here](https://www.youtube.com/watch?v=fLx78pSYFvw)|-|
 |Adapting Kubernetes to Constrained IP Address Environments - Mahesh Narayanan & Satyadeep Musuvathy|[Watch Here](https://www.youtube.com/watch?v=TNLwDEfMfMY)|-|
 |Understanding and Troubleshooting the eBPF Datapath in Cilium - Nathan Sweet, DigitalOcean|[Watch Here](https://www.youtube.com/watch?v=Kmm8Hl57WDU)|-|
@@ -80,7 +56,6 @@
  
 | Topic        |      Video     |  Presentation |
 | ------------- |:-------------:| -----:|
-
 |Making the Most Out of Kubernetes Audit Logs - Laurent Bernaille & Robert Boll, Datadog|[Watch Here](https://www.youtube.com/watch?v=raJRLmGb9Is)|-|
 |Take Envoy Beyond a K8s Service Mesh - to Legacy Bare Metal & VMs + More - Steve Sloka & Steven Wong|[Watch Here](https://www.youtube.com/watch?v=jzla7xdqtwM)|-|
 |Living with the Pathology of the Cloud: How AWS Runs Lots of Clusters - Micah Hausler, Amazon|[Watch Here](https://www.youtube.com/watch?v=Q_enP8JAlHQ)|-|
@@ -101,7 +76,6 @@
  
 | Topic        |      Video     |  Presentation |
 | ------------- |:-------------:| -----:|
-
 |Service Mesh: There and Back Again - Hema Lee & Cody Vandermyn, Nordstrom|[Watch Here](https://www.youtube.com/watch?v=sq8nsjuJqO4)|-|
 |How the Department of Defense Moved to Kubernetes and Istio - Nicolas Chaillan|[Watch Here](https://www.youtube.com/watch?v=YjZ4AZ7hRM0)|-|
 |Porting Envoy to Windows; A Progress Report - Yechiel Kalmenson & William A. Rowe, Jr., Pivotal|[Watch Here](https://www.youtube.com/watch?v=FGBBeyZ-p1k)|-|
@@ -119,7 +93,6 @@
  
 | Topic        |      Video     |  Presentation |
 | ------------- |:-------------:| -----:|
-
 |KubeFlow’s Serverless Component: 10x Faster, a 1/10 of the Effort - Orit Nissan-Messing, Iguazio|[Watch Here](https://www.youtube.com/watch?v=GmCpdRRFmxw)|-|
 |Scaling Your Cluster (Both Ways) - Scott Coulton & Patrick Chanezon, Microsoft|[Watch Here](https://www.youtube.com/watch?v=maHv_mtByOY)|-|
 |Serverless Platform for Large Scale Mini-Apps: From Knative to Production - Yitao Dong & Ke Wang|[Watch Here](https://www.youtube.com/watch?v=PA1UoLPf4nE)|-|
@@ -130,7 +103,6 @@
 
 | Topic        |      Video     |  Presentation |
 | ------------- |:-------------:| -----:|
-
 |The Devil in the Details: Kubernetes’ First Security Assessment - Aaron Small & Jay Beale|[Watch Here](https://www.youtube.com/watch?v=vknE5XEa_Do)|-|
 |CAP_NET_RAW And ARP Spoofing in Your Cluster: It's Going Downhill From Here - Liz Rice|[Watch Here](https://www.youtube.com/watch?v=f-dN8Osm8z0)|-|
 |Enforcing Automatic mTLS With Linkerd and OPA Gatekeeper - Ivan Sim, Buoyant & Rita Zhang, Microsoft|[Watch Here](https://www.youtube.com/watch?v=gMaGVHnvNfs)|-|
@@ -150,7 +122,6 @@
 
 | Topic        |      Video     |  Presentation |
 | ------------- |:-------------:| -----:|
-
 |Kubernetes at Cruise: Two Years of Multitenancy - Karl Isenberg, Cruise|[Watch Here](https://www.youtube.com/watch?v=m19D9vZ1QFQ)|-|
 |Scaling Resilient Systems: A Journey into Slack's Database Service - Rafael Chacon & Guido Iaquinti|[Watch Here](https://www.youtube.com/watch?v=aTItjMJE17c)|-|
 |Running Istio and Kubernetes On-prem at Yahoo Scale - Suresh Visvanathan & Mrunmayi Dhume, Verizon|[Watch Here](https://www.youtube.com/watch?v=fEaVU1i-fOQ)|-|
@@ -164,3 +135,21 @@
 |Kubernetes at Reddit: Tales from Production - Greg Taylor, Reddit, Inc|[Watch Here](https://www.youtube.com/watch?v=WTbIBqNcjoQ)|-|
 |Tinder's Move to Kubernetes - Chris O'Brien & Chris Thomas, Tinder|[Watch Here](https://www.youtube.com/watch?v=o3WXPXDuCSU)|-|
 |Creating a Micro Open-Source Community with Helm - Katie Gamanji, Condé Nast International|[Watch Here](https://www.youtube.com/watch?v=SsUp8LW2ovs)|-|
+
+## Lightning Talks
+
+| Topic        |      Video     |  Presentation |
+| ------------- |:-------------:| -----:|
+|Lightning Talk: Want to Donate a Project to the CNCF? Here's How - Cheryl Hung, CNCF|[Watch Here](https://www.youtube.com/watch?v=WS0OcCUt4io)|-|
+|Lightning Talk: Easily Observing Operators - Lili Cosic, Red Hat|[Watch Here](https://www.youtube.com/watch?v=-ioN-apfQFc)|-|
+|Lightning Talk: Is Your Kubernetes Cluster's DNS Working? - Jonathan Perry, Flowmill|[Watch Here](https://www.youtube.com/watch?v=thBCB7YeZ2g)|-|
+|Lightning Talk: Open Match - Matchmaking Framework - Robert Bailey, Google|[Watch Here](https://www.youtube.com/watch?v=OEkCaHTLpA8)|-|
+|Lightning Talk: CRDs All the Way Down – Using OPA for Complex CRD Validation and... Puja Abbassi|[Watch Here](https://www.youtube.com/watch?v=DUe_8nf42Ik)|-|
+|Lightning Talk: How the Observability Team at Spotify Radically Decreased... Lauren Muhlhauser|[Watch Here](https://www.youtube.com/watch?v=AA8e5v43AcU)|-|
+|Lightning Talk: Sharing a GPU Among Multiple Containers - Patrick McQuighan, Algorithmia|[Watch Here](https://www.youtube.com/watch?v=VNZsooht3K8)|-|
+|Lightning Talk: Code Kubernetes While You Are Using It - Mario Loriedo, Red Hat|[Watch Here](https://www.youtube.com/watch?v=W--8Ga9G63k)|-|
+|Lightning Talk: Kuber-What-Es?! Misadventures in Building UIs for K8s-Based ML... Alexandra Johnson|[Watch Here](https://www.youtube.com/watch?v=Vr9X_W0wS64)|-|
+|Lightning Talk: Get Started With Non-Code Contributions to Kubernetes - David Strebel, Microsoft|[Watch Here](https://www.youtube.com/watch?v=AWdhli9rhWQ)|-|
+|Lightning Talk: Boosting Your kubectl Productivity - Mauricio Salatino, LearnK8s|[Watch Here](https://www.youtube.com/watch?v=vVAFctQP1Vg)|-|
+|Lightning Talk: What Makes a Good Multi-tenant Kubernetes Solution? - Victor Varza, Adobe|[Watch Here](https://www.youtube.com/watch?v=39FLsSc2P-Y)|-|
+
