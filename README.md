@@ -154,7 +154,7 @@
 |Lightning Talk: What Makes a Good Multi-tenant Kubernetes Solution? - Victor Varza, Adobe|[Watch Here](https://www.youtube.com/watch?v=39FLsSc2P-Y)|-|
 
 
-## Miscellaneous
+## Unsorted
 
 | Topic        |      Video     |  Presentation |
 | ------------- |:-------------:| -----:|
