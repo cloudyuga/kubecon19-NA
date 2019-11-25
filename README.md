@@ -154,7 +154,10 @@
 |Lightning Talk: What Makes a Good Multi-tenant Kubernetes Solution? - Victor Varza, Adobe|[Watch Here](https://www.youtube.com/watch?v=39FLsSc2P-Y)|-|
 
 
+## Miscellaneous
 
+| Topic        |      Video     |  Presentation |
+| ------------- |:-------------:| -----:|
 |Intro to Thanos: Scale Your Prometheus Monitoring With Ease - Lucas Serven & Dominic Green|[Watch Here](https://www.youtube.com/watch?v=m0JgWlTc60Q)|-|
 |Introduction to Virtual Kubelet – Featuring Titus by Netflix - Ria Bhatia & Sargun Dhillon|[Watch Here](https://www.youtube.com/watch?v=eFnDwwckrKU)|-|
 
