@@ -216,8 +216,7 @@
 |How to Include Latency in SLO-based Alerting - Björn Rabenstein, Grafana Labs|[Watch Here](https://www.youtube.com/watch?v=X99X-VDzxnw)| [Slides](./slides/how-to-include-latency-in-slo-based-alerting-bjorn-rabenstein-grafana-labs.pdf ) |
 |Debugging Live Applications the Kubernetes Way: From a Sidecar - Joe Elliott, Grafana Labs|[Watch Here](https://www.youtube.com/watch?v=yNTc2-i9arg)| [Slides](./slides/debugging-live-applications-the-kubernetes-way-from-a-sidecar-joe-elliott-grafana-labs.pdf ) |
 |Deep Linking Metrics and Traces with OpenTelemetry, OpenMetrics and M3 - Rob Skillington|[Watch Here](https://www.youtube.com/watch?v=TzNZIEvhAdA)| [Slides](./slides/deep-linking-metrics-and-traces-with-opentelemetry-openmetrics-and-m3-rob-skillington-chronosphere.pdf ) |
-|Exporting Kubernetes Event Objects for Better Observability - Mustafa Akın & Ahmet Şeker, Atlassian|[Watch Here](https://www.youtube.com/watch?v=_s0o_xAF3Pg)| [Slides](./slides/exporting-kubernetes-event-objects-for-better-observability-mustafa-akin-ahmet-seker-atlassian.pdf
- )|
+|Exporting Kubernetes Event Objects for Better Observability - Mustafa Akın & Ahmet Şeker, Atlassian|[Watch Here](https://www.youtube.com/watch?v=_s0o_xAF3Pg)| [Slides](./slides/exporting-kubernetes-event-objects-for-better-observability-mustafa-akin-ahmet-seker-atlassian.pdf)|
 
 ## Application + Development
 
@@ -245,8 +244,7 @@
 |Only Slightly Bent: Uber’s Kubernetes Migration Journey for Microservices - Yunpeng Liu, Uber|[Watch Here](https://www.youtube.com/watch?v=91c3iUI2K7M)| [Slides](./slides/only-slightly-bent-ubers-kubernetes-migration-journey-for-microservices-yunpeng-liu-uber.pdf ) |
 |Hardware-based KMS Plug-in to Protect Secrets in Kubernetes - Raghu Yeluri & Haidong Xia, Intel|[Watch Here](https://www.youtube.com/watch?v=CloYJcPY5nU)| [Slides](./slides/hardware-based-kms-plug-in-to-protect-secrets-in-kubernetes-raghu-yeluri-haidong-xia-intel.pdf ) |
 |Russian Doll: Extending Containers with Nested Processes - Christie Wilson & Jason Hall, Google|[Watch Here](https://www.youtube.com/watch?v=iz9_omZ0ctk)| [Slides](./slides/russian-doll-extending-containers-with-nested-processes-christie-wilson-jason-hall-google.pdf ) |
-|Admission Webhooks: Configuration and Debugging Best Practices - Haowei Cai, Google|[Watch Here](https://www.youtube.com/watch?v=r_v07P8Go6w)| [Slides](./slides/admission-webhooks-configuration-and-debugging-best-practices-haowei-cai-google.pdf
- )|
+|Admission Webhooks: Configuration and Debugging Best Practices - Haowei Cai, Google|[Watch Here](https://www.youtube.com/watch?v=r_v07P8Go6w)| [Slides](./slides/admission-webhooks-configuration-and-debugging-best-practices-haowei-cai-google.pdf)|
 |Polymorphic Reconcilers in Kubernetes - Advanced DuckTyping - Scott Nichols & Matt Moore, Google|[Watch Here](https://www.youtube.com/watch?v=kldVg63Utuw)| [Slides](./slides/polymorphic-reconcilers-in-kubernetes-advanced-ducktyping-scott-nichols-matt-moore-google.pdf ) |
 |Practical Way to Build Kubernetes Native Java Controller - Zibo He & Min Jin, Ant Financial|[Watch Here](https://www.youtube.com/watch?v=GDUBApV9mwA)| [Slides](./slides/practical-way-to-build-kubernetes-native-java-controller-zibo-he-min-jin-ant-financial.pdf ) |
 |Growth and Design Patterns in the Extensions Ecosystem - Eric Tune, Google|[Watch Here](https://www.youtube.com/watch?v=ph4a9TzK29U)| [Slides](./slides/growth-and-design-patterns-in-the-extensions-ecosystem-eric-tune-google.pdf ) |
