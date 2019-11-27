@@ -20,7 +20,7 @@
 |Keynote: NATS: Past, Present and the Future - Derek Collison, Founder and CEO, Synadia|[Watch Here](https://www.youtube.com/watch?v=lHQXEqyH57U)| [Slides](./slides/keynote-nats-past-present-and-the-future-derek-collison-founder-and-ceo-synadia.pdf )|
 |Sponsored Keynote: Keep Kubernetes Caffeinated - Erin Boyd, Principal Software Engineer, Red Hat|[Watch Here](https://www.youtube.com/watch?v=Xmns4uHlDVg)| [Slides](./slides/sponsored-keynote-keep-kubernetes-caffeinated-erin-boyd-principal-software-engineer-red-hat.pdf )|
 |Keynote: CNCF Project Updates - Bryan Liles, KubeCon + CloudNativeCon North America 2019 Co-Chair|[Watch Here](https://www.youtube.com/watch?v=two3TzF9mVY)|-|
-|Keynote: CNCF Updates - Cheryl Hung, Director of Ecosystem, Cloud Native Computing Foundation|[Watch Here](https://www.youtube.com/watch?v=Sjjwv6chZr0)|-) |
+|Keynote: CNCF Updates - Cheryl Hung, Director of Ecosystem, Cloud Native Computing Foundation|[Watch Here](https://www.youtube.com/watch?v=Sjjwv6chZr0)|-|
 |Keynote: Closing Remarks - KubeCon + CloudNativeCon North America 2019 - Vicki Cheung & Bryan Liles|[Watch Here](https://www.youtube.com/watch?v=uny8jpLn788)|-|
 |Keynote: Closing Remarks - Bryan Liles|[Watch Here](https://www.youtube.com/watch?v=XKsogSdDJT8)|-|
 
@@ -32,7 +32,7 @@
 |Tutorial: Service Mesh for the Developer Workflow - Christian Posta & Nic Jackson|[Watch Here](https://www.youtube.com/watch?v=uC2O36QKUlc)|-|
 |Tutorial: Debug Your Kubernetes Apps - Arun Gupta & Re Alvarez Parmar, Amazon|[Watch Here](https://www.youtube.com/watch?v=058bKrbw8jg)|-|
 |Tutorial: Mastering Multi-version CRDs: From YAML to a Serious Devel... Stefan Schimanski & Joe Betz|[Watch Here](https://www.youtube.com/watch?v=AAxuEPIzHUQ)| [Slides](./slides/tutorial-mastering-multi-version-crds-from-yaml-to-a-serious-development-project-stefan-schimanski-red-hat-joe-betz-google-limited-available-seating-first-come-first-served-basis.pdf )|
-|Tutorial: Zero to Operator in 90 Minutes! - Solly Ross, Google|[Watch Here](https://www.youtube.com/watch?v=KBTXBUVNF2I)| [Slides] (./slides/tutorial-zero-to-operator-in-90-minutes-solly-ross-google-limited-available-seating-first-come-first-served-basis.pdf ) |
+|Tutorial: Zero to Operator in 90 Minutes! - Solly Ross, Google|[Watch Here](https://www.youtube.com/watch?v=KBTXBUVNF2I)| [Slides](./slides/tutorial-zero-to-operator-in-90-minutes-solly-ross-google-limited-available-seating-first-come-first-served-basis.pdf ) |
 |Tutorial: A Kind Workflow for Contri... Benjamin Elder, Duffie Cooley, James Munnelly & Patrick Lang|[Watch Here](https://www.youtube.com/watch?v=BPVO2mcfjJk)|-|
 |Tutorial: Deep Dive into the Operator Framework for... Melvin Hillsman, Michael Hrivnak, & Matt Dorn|[Watch Here](https://www.youtube.com/watch?v=8_DaCcRMp5I)|-|
 |Tutorial: From Notebook to Kubeflow Pipel... Michelle Casbon, Stefano Fioravanzo & Ilias Katsakioris|[Watch Here](https://www.youtube.com/watch?v=C9rJzTzVzvQ)| [Slides](./slides/tutorial-from-notebook-to-kubeflow-pipelines-an-end-to-end-data-science-workflow-michelle-casbon-google-stefano-fioravanzo-fondazione-bruno-kessler-ilias-katsakioris-arrikto-limited-available-seating-first-come-first-served-basis.pdf )|
@@ -59,8 +59,7 @@
 |Making the Most Out of Kubernetes Audit Logs - Laurent Bernaille & Robert Boll, Datadog|[Watch Here](https://www.youtube.com/watch?v=raJRLmGb9Is)| [Slides](./slides/making-the-most-out-of-kubernetes-audit-logs-laurent-bernaille-robert-boll-datadog.pdf )|
 |Take Envoy Beyond a K8s Service Mesh - to Legacy Bare Metal & VMs + More - Steve Sloka & Steven Wong|[Watch Here](https://www.youtube.com/watch?v=jzla7xdqtwM)| [Slides](./slides/take-envoy-beyond-a-k8s-service-mesh-to-legacy-bare-metal-and-vms-more-steve-sloka-steven-wong-vmware.pdf )|
 |Living with the Pathology of the Cloud: How AWS Runs Lots of Clusters - Micah Hausler, Amazon|[Watch Here](https://www.youtube.com/watch?v=Q_enP8JAlHQ)| [Slides](./slides/living-with-the-pathology-of-the-cloud-how-aws-runs-lots-of-clusters-micah-hausler-amazon.pdf )|
-|Building the Cloud Native Kernel: Kubernetes Release Engineering - Tim Pepper & Stephen Augustus|[Watch Here](https://www.youtube.com/watch?v=fcQROXxHsvs)| [Slides](./slides/building-the-cloud-native-kernel-kubernetes-release-engineering-tim-pepper-stephen-augustus-vmware.pptx
-)|
+|Building the Cloud Native Kernel: Kubernetes Release Engineering - Tim Pepper & Stephen Augustus|[Watch Here](https://www.youtube.com/watch?v=fcQROXxHsvs)| [Slides](./slides/building-the-cloud-native-kernel-kubernetes-release-engineering-tim-pepper-stephen-augustus-vmware.pptx)|
 |Scaling Kubernetes to Thousands of Nodes Across Multiple Clusters, Calmly - Ben Hughes, Airbnb|[Watch Here](https://www.youtube.com/watch?v=ay7NibpRAYU)| [Slides](./slides/scaling-kubernetes-to-thousands-of-nodes-across-multiple-clusters-calmly-ben-hughes-airbnb.pdf )|
 |Running Large-Scale Stateful Workloads On Kubernetes at Lyft - Surinder Singh & Anmol Khurana, Lyft|[Watch Here](https://www.youtube.com/watch?v=ECeVQoble0g)| [Slides](./slides/running-large-scale-stateful-workloads-on-kubernetes-at-lyft-surinder-singh-anmol-khurana-lyft.pdf )|
 |Don’t Catch Feelings, Catch Issues With Kuberhealthy - Joshulyne Park & Shilla Saebi, Comcast|[Watch Here](https://www.youtube.com/watch?v=aAJlWhBtzqY)| [Slides](./slides/dont-catch-feelings-catch-issues-with-kuberhealthy-joshulyne-park-shilla-saebi-comcast.pdf)|
@@ -144,8 +143,8 @@
 | ------------- |:-------------:| -----:|
 |Beyond Storage Management - Andrew Large & Yinan Li, Google|[Watch Here](https://www.youtube.com/watch?v=m-9MX9Pxh6A)| [Slides](./slides/beyond-storage-management-andrew-large-yinan-li-google.pdf)|
 |Building Blocks: How Raw Block PVs Changed the Way We Look at Storage - Jose A. Rivera & Rohan Gupta|[Watch Here](https://www.youtube.com/watch?v=5j4ViEfVcWg)| [Slides](./slides/building-blocks-how-raw-block-pvs-changed-the-way-we-look-at-storage-jose-a-rivera-rohan-gupta-red-hat.pdf)|
-|Building a Database as a Service on Kubernetes - Abhi Vaidyanatha & Lucy Burns, PlanetScale|[Watch Here](https://www.youtube.com/watch?v=469NOldFOgw)| [Slides] (./slides/building-a-database-as-a-service-on-kubernetes-abhi-vaidyanatha-lucy-burns-planetscale.pdf)|
-|Vitess: Stateless Storage in the Cloud - Sugu Sougoumarane, PlanetScale|[Watch Here](https://www.youtube.com/watch?v=z63dtNj6ctY)| [Slides] (./slides/ ) |
+|Building a Database as a Service on Kubernetes - Abhi Vaidyanatha & Lucy Burns, PlanetScale|[Watch Here](https://www.youtube.com/watch?v=469NOldFOgw)| [Slides](./slides/building-a-database-as-a-service-on-kubernetes-abhi-vaidyanatha-lucy-burns-planetscale.pdf)|
+|Vitess: Stateless Storage in the Cloud - Sugu Sougoumarane, PlanetScale|[Watch Here](https://www.youtube.com/watch?v=z63dtNj6ctY)| [Slides](./slides/ ) |
 |How to Backup and Restore Your Kubernetes Cluster - Annette Clewett & Dylan Murray, Red Hat|[Watch Here](https://www.youtube.com/watch?v=JyzgS-KKuoo)| [Slides](./slides/how-to-backup-and-restore-your-kubernetes-cluster-annette-clewett-dylan-murray-red-hat.pdf)|
 |Storage on Kubernetes - Learning From Failures - Hemant Kumar & Jan Šafránek, Red Hat|[Watch Here](https://www.youtube.com/watch?v=zuGjw595OiQ)| [Slides](./slides/storage-on-kubernetes-learning-from-failures-hemant-kumar-jan-safranek-red-hat.pdf)|
 |Kubernetes Storage Cheat Sheet for VM Administrators - Manu Batra & Jing Xu, Google|[Watch Here](https://www.youtube.com/watch?v=Qbfp2QJ-Png)|-|
@@ -176,8 +175,7 @@
 |Advanced Model Inferencing Leveraging KNative, Istio & Kubeflow Serving - Animesh Singh & Clive Cox|[Watch Here](https://www.youtube.com/watch?v=YaGASyU88dQ)| [Slides](./slides/advanced-model-inferencing-leveraging-knative-istio-and-kubeflow-serving-animesh-singh-ibm-clive-cox-seldon.pdf)|
 |Building and Managing a Centralized Kubeflow Platform at Spotify - Keshi Dai & Ryan Clough, Spotify|[Watch Here](https://www.youtube.com/watch?v=m9XhsnNSMAI)| [Slides](./slides/building-and-managing-a-centralized-kubeflow-platform-at-spotify-keshi-dai-ryan-clough-spotify.pdf)|
 |Panel: Enterprise-grade, On-prem Kubeflow in the Financial Sector|[Watch Here](https://www.youtube.com/watch?v=SmrW_RyQM1c)| [Slides](./slides/panel-enterprise-grade-on-prem-kubeflow-in-the-financial-sector-laura-schornack-jpmorgan-chase-jeff-fogarty-us-bank-josh-bottum-arrikto-thea-lamkin-google.pdf)|
-|Kubeflow: Multi-Tenant, Self-Serve, Accelerated Platform for Practitioners- Kam Kasravi & Kunming Qu|[Watch Here](https://www.youtube.com/watch?v=KriEaW-Jm-g)| [Slides](./slides/kubeflow-multi-tenant-self-serve-accelerated-platform-for-practitioners-kam-kasravi-intel-kunming-qu-google.pdf
-)|
+|Kubeflow: Multi-Tenant, Self-Serve, Accelerated Platform for Practitioners- Kam Kasravi & Kunming Qu|[Watch Here](https://www.youtube.com/watch?v=KriEaW-Jm-g)| [Slides](./slides/kubeflow-multi-tenant-self-serve-accelerated-platform-for-practitioners-kam-kasravi-intel-kunming-qu-google.pdf)|
 |Realizing End to End Reproducible Machine Learning on Kubernetes - Suneeta Mall, Nearmap|[Watch Here](https://www.youtube.com/watch?v=ZEGdSLWdrH0)| [Slides](./slides/realizing-end-to-end-reproducible-machine-learning-on-kubernetes-suneeta-mall-nearmap.pdf)|
 |Improving Performance of Deep Learning Workloads With Volcano - Ti Zhou, Baidu Inc|[Watch Here](https://www.youtube.com/watch?v=60DVnk0VxZ8)| [Slides](./slides/improving-performance-of-deep-learning-workloads-with-volcano-ti-zhou-baidu-inc.pdf )|
 |Kubernetizing Big Data and ML Workloads at Uber - Mayank Bansal & Min Cai, Uber|[Watch Here](https://www.youtube.com/watch?v=JkydSB4-q3M)| [Slides](./slides/kubernetizing-big-data-and-ml-workloads-at-uber-mayank-bansal-min-cai-uber.pdf)|
@@ -219,7 +217,7 @@
 |Debugging Live Applications the Kubernetes Way: From a Sidecar - Joe Elliott, Grafana Labs|[Watch Here](https://www.youtube.com/watch?v=yNTc2-i9arg)| [Slides](./slides/debugging-live-applications-the-kubernetes-way-from-a-sidecar-joe-elliott-grafana-labs.pdf ) |
 |Deep Linking Metrics and Traces with OpenTelemetry, OpenMetrics and M3 - Rob Skillington|[Watch Here](https://www.youtube.com/watch?v=TzNZIEvhAdA)| [Slides](./slides/deep-linking-metrics-and-traces-with-opentelemetry-openmetrics-and-m3-rob-skillington-chronosphere.pdf ) |
 |Exporting Kubernetes Event Objects for Better Observability - Mustafa Akın & Ahmet Şeker, Atlassian|[Watch Here](https://www.youtube.com/watch?v=_s0o_xAF3Pg)| [Slides](./slides/exporting-kubernetes-event-objects-for-better-observability-mustafa-akin-ahmet-seker-atlassian.pdf
- ) |
+ )|
 
 ## Application + Development
 
@@ -248,7 +246,7 @@
 |Hardware-based KMS Plug-in to Protect Secrets in Kubernetes - Raghu Yeluri & Haidong Xia, Intel|[Watch Here](https://www.youtube.com/watch?v=CloYJcPY5nU)| [Slides](./slides/hardware-based-kms-plug-in-to-protect-secrets-in-kubernetes-raghu-yeluri-haidong-xia-intel.pdf ) |
 |Russian Doll: Extending Containers with Nested Processes - Christie Wilson & Jason Hall, Google|[Watch Here](https://www.youtube.com/watch?v=iz9_omZ0ctk)| [Slides](./slides/russian-doll-extending-containers-with-nested-processes-christie-wilson-jason-hall-google.pdf ) |
 |Admission Webhooks: Configuration and Debugging Best Practices - Haowei Cai, Google|[Watch Here](https://www.youtube.com/watch?v=r_v07P8Go6w)| [Slides](./slides/admission-webhooks-configuration-and-debugging-best-practices-haowei-cai-google.pdf
- ) |
+ )|
 |Polymorphic Reconcilers in Kubernetes - Advanced DuckTyping - Scott Nichols & Matt Moore, Google|[Watch Here](https://www.youtube.com/watch?v=kldVg63Utuw)| [Slides](./slides/polymorphic-reconcilers-in-kubernetes-advanced-ducktyping-scott-nichols-matt-moore-google.pdf ) |
 |Practical Way to Build Kubernetes Native Java Controller - Zibo He & Min Jin, Ant Financial|[Watch Here](https://www.youtube.com/watch?v=GDUBApV9mwA)| [Slides](./slides/practical-way-to-build-kubernetes-native-java-controller-zibo-he-min-jin-ant-financial.pdf ) |
 |Growth and Design Patterns in the Extensions Ecosystem - Eric Tune, Google|[Watch Here](https://www.youtube.com/watch?v=ph4a9TzK29U)| [Slides](./slides/growth-and-design-patterns-in-the-extensions-ecosystem-eric-tune-google.pdf ) |
@@ -278,8 +276,7 @@
 |KubeVirt Intro: Virtual Machine Management on Kubernetes - Steve Gordon & Chandrakanth Jakkidi|[Watch Here](https://www.youtube.com/watch?v=_z5Pjyl0Dq4)| [Slides](./slides/kubevirt-intro-virtual-machine-management-on-kubernetes-steve-gordon-red-hat-chandrakanth-jakkidi-f5.pdf ) |
 |Intro to SIG Service Catalog - Jonathan Berkhahn, IBM & Mateusz Szostok, SAP|[Watch Here](https://www.youtube.com/watch?v=dVsid9Crxt8)| [Slides](./slides/intro-to-sig-service-catalog-jonathan-berkhahn-ibm-mateusz-szostok-sap.pdf ) |
 |Intro: Kubernetes SIG PM - Stephen Augustus, VMware|[Watch Here](https://www.youtube.com/watch?v=RDpJ8XVU1bw)|-|
-|Jaeger Intro - Yuri Shkuro, Uber Technologies & Pavol Loffay, Red Hat|[Watch Here](https://www.youtube.com/watch?v=cXoTja7BvSA)| [Slides](./slides/jaeger-intro-yuri-shkuro-uber-technologies-pavol-loffay-red-hat.pdf
- ) |
+|Jaeger Intro - Yuri Shkuro, Uber Technologies & Pavol Loffay, Red Hat|[Watch Here](https://www.youtube.com/watch?v=cXoTja7BvSA)| [Slides](./slides/jaeger-intro-yuri-shkuro-uber-technologies-pavol-loffay-red-hat.pdf)|
 |Intro to the Kubernetes Working Group for Multi-tenancy - Tasha Drew, VMware|[Watch Here](https://www.youtube.com/watch?v=589ORHspowE)| [Slides](./slides/intro-to-the-kubernetes-working-group-for-multi-tenancy-tasha-drew-vmware.pdf ) |
 |Introduction to Windows Containers in Kubernetes - Michael Michael, VMware & Deep Debroy, Docker|[Watch Here](https://www.youtube.com/watch?v=oAD7wnsCvF8)| [Slides](./slides/introduction-to-windows-containers-in-kubernetes-michael-michael-vmware-deep-debroy-docker.pdf ) |
 |Intro: Flux - Stefan Prodan, Weaveworks & Alexis Richardson, Weaveworks|[Watch Here](https://www.youtube.com/watch?v=u8usjpl3jWM)|-|
@@ -290,7 +287,7 @@
 |Introduction to CNI, the Container Network Interface Project - Bryan Boreham & Dan Williams|[Watch Here](https://www.youtube.com/watch?v=YjjrQiJOyME)| [Slides](./slides/introduction-to-cni-the-container-network-interface-project-bryan-boreham-weaveworks-dan-williams-red-hat.pdf ) |
 |KubeEdge – Kubernetes Native Edge Computing Framework - Jason Wu & Sean Wang, Futurewei|[Watch Here](https://www.youtube.com/watch?v=FduLNxFp_vU)| [Slides](./slides/kubeedge-kubernetes-native-edge-computing-framework-jason-wu-sean-wang-futurewei.pdf ) |
 |Cortex 101: Horizontally Scalable Long Term Storage for Prometheus - Chris Marchbanks, Splunk|[Watch Here](https://www.youtube.com/watch?v=f8GmbH0U_kI)| [Slides](./slides/cortex-101-horizontally-scalable-long-term-storage-for-prometheus-chris-marchbanks-splunk.pdf ) |
-|Intro: Harbor - Enterprise Cloud Native Artifact Registry - Steven Ren, VMware & Alex Xu, VMware|[Watch Here](https://www.youtube.com/watch?v=Y2WvyTCuhrU)|-) |
+|Intro: Harbor - Enterprise Cloud Native Artifact Registry - Steven Ren, VMware & Alex Xu, VMware|[Watch Here](https://www.youtube.com/watch?v=Y2WvyTCuhrU)|-|
 |Intro to Cloud Native Buildpacks - Terence Lee, Heroku & Emily Casey, Pivotal|[Watch Here](https://www.youtube.com/watch?v=SK6e_ZatOaw)|-|
 |Intro to gRPC - Jayant Kolhe & Eric Anderson, Google|[Watch Here](https://www.youtube.com/watch?v=3Kkj6vAW5a4)| [Slides](./slides/intro-to-grpc-jayant-kolhe-eric-anderson-google.pdf ) |
 |Intro to Cloud Provider Azure - Rita Zhang, Microsoft & Craig Peters, Microsoft|[Watch Here](https://www.youtube.com/watch?v=oLVxxo2XR08)|-|
@@ -336,7 +333,7 @@
 |Deep Dive: CNI - Bryan Boreham, Weaveworks & Dan Williams, Red Hat|[Watch Here](https://www.youtube.com/watch?v=zChkx-AB5Xc)|[Slides](./slides/deep-dive-cni-bryan-boreham-weaveworks-dan-williams-red-hat.pdf)|
 |Thanos Deep Dive: Inside a Distributed Monitoring System - Bartlomiej Plotka & Frederic Branczyk|[Watch Here](https://www.youtube.com/watch?v=qQN0N14HXPM)|[Slides](./slides/thanos-deep-dive-inside-a-distributed-monitoring-system-bartlomiej-plotka-frederic-branczyk-red-hat.pdf)|
 |CoreDNS Deep Dive - John Belamaric, Google|[Watch Here](https://www.youtube.com/watch?v=VfobOJ91A5Y)|[Slides](./slides/coredns-deep-dive-john-belamaric-google.pdf)|
-|Deep Dive: Contributor Experience SIG - Christoph Blecker, Red Hat & Nikhita Raghunath, Loodse|[Watch Here](https://www.youtube.com/watch?v=0d97Wna4qOs)| [Slides] (./slides/ ) |
+|Deep Dive: Contributor Experience SIG - Christoph Blecker, Red Hat & Nikhita Raghunath, Loodse|[Watch Here](https://www.youtube.com/watch?v=0d97Wna4qOs)|-|
 |Application Observability for DevSecOps - Sabree Blackmon, Docker|[Watch Here](https://www.youtube.com/watch?v=rEbt9-0TsrI)| - |
 |Deep Dive Into API Machinery - Antoine Pelisse, Google & Stefan Schimanski, Red Hat|[Watch Here](https://www.youtube.com/watch?v=qTm-g3vtVOE)|[Slides](./slides/deep-dive-into-api-machinery-antoine-pelisse-google-stefan-schimanski-red-hat.pdf)|
 |Deep Dive: Brigade - Matt Butcher & Kent Rancourt, Microsoft|[Watch Here](https://www.youtube.com/watch?v=o2D5XI9jhYA)|[Slides](./slides/deep-dive-brigade-matt-butcher-kent-rancourt-microsoft.pdf)|
@@ -356,16 +353,16 @@ SIG-Network Intro & Deep-Dive - Tim Hockin, Google & Vallery Lancey, Lyft|[Watch
 | Topic        |      Video     |  Presentation |
 | ------------- |:-------------:| -----:|
 |Lightning Talk: Want to Donate a Project to the CNCF? Here's How - Cheryl Hung, CNCF|[Watch Here](https://www.youtube.com/watch?v=WS0OcCUt4io)|[Slides](./slides/lightning-talk-want-to-donate-a-project-to-the-cncf-heres-how-cheryl-hung-cncf.pdf)|
-|Lightning Talk: Easily Observing Operators - Lili Cosic, Red Hat|[Watch Here](https://www.youtube.com/watch?v=-ioN-apfQFc)| [Slides] (./slides/ ) |
+|Lightning Talk: Easily Observing Operators - Lili Cosic, Red Hat|[Watch Here](https://www.youtube.com/watch?v=-ioN-apfQFc)|-|
 |Lightning Talk: Is Your Kubernetes Cluster's DNS Working? - Jonathan Perry, Flowmill|[Watch Here](https://www.youtube.com/watch?v=thBCB7YeZ2g)|[Slides](./slides/lightning-talk-is-your-kubernetes-clusters-dns-working-jonathan-perry-flowmill.pdf)|
 |Lightning Talk: Open Match - Matchmaking Framework - Robert Bailey, Google|[Watch Here](https://www.youtube.com/watch?v=OEkCaHTLpA8)|[Slides](./slides/lightning-talk-open-match-matchmaking-framework-robert-bailey-google.pdf)|
 |Lightning Talk: CRDs All the Way Down – Using OPA for Complex CRD Validation and... Puja Abbassi|[Watch Here](https://www.youtube.com/watch?v=DUe_8nf42Ik)|[Slides](./slides/lightning-talk-crds-all-the-way-down-using-opa-for-complex-crd-validation-and-defaulting-puja-abbassi-giant-swarm.pdf)|
 |Lightning Talk: How the Observability Team at Spotify Radically Decreased... Lauren Muhlhauser|[Watch Here](https://www.youtube.com/watch?v=AA8e5v43AcU)|[Slides](./slides/lightning-talk-how-the-observability-team-at-spotify-radically-decreased-on-call-alerts-lauren-muhlhauser-spotify.pdf)|
 |Lightning Talk: Sharing a GPU Among Multiple Containers - Patrick McQuighan, Algorithmia|[Watch Here](https://www.youtube.com/watch?v=VNZsooht3K8)|[Slides](./slides/lightning-talk-sharing-a-gpu-among-multiple-containers-patrick-mcquighan-algorithmia.pdf)|
-|Lightning Talk: Code Kubernetes While You Are Using It - Mario Loriedo, Red Hat|[Watch Here](https://www.youtube.com/watch?v=W--8Ga9G63k)| [Slides] (./slides/ ) |
+|Lightning Talk: Code Kubernetes While You Are Using It - Mario Loriedo, Red Hat|[Watch Here](https://www.youtube.com/watch?v=W--8Ga9G63k)|-|
 |Lightning Talk: Kuber-What-Es?! Misadventures in Building UIs for K8s-Based ML... Alexandra Johnson|[Watch Here](https://www.youtube.com/watch?v=Vr9X_W0wS64)|[Slides](./slides/lightning-talk-kuber-what-es-misadventures-in-building-uis-for-k8s-based-ml-platforms-alexandra-johnson-independent.pdf)|
-|Lightning Talk: Get Started With Non-Code Contributions to Kubernetes - David Strebel, Microsoft|[Watch Here](https://www.youtube.com/watch?v=AWdhli9rhWQ)| [Slides] (./slides/ ) |
-|Lightning Talk: Boosting Your kubectl Productivity - Mauricio Salatino, LearnK8s|[Watch Here](https://www.youtube.com/watch?v=vVAFctQP1Vg)| [Slides] (./slides/ ) |
+|Lightning Talk: Get Started With Non-Code Contributions to Kubernetes - David Strebel, Microsoft|[Watch Here](https://www.youtube.com/watch?v=AWdhli9rhWQ)|-|
+|Lightning Talk: Boosting Your kubectl Productivity - Mauricio Salatino, LearnK8s|[Watch Here](https://www.youtube.com/watch?v=vVAFctQP1Vg)|-|
 |Lightning Talk: What Makes a Good Multi-tenant Kubernetes Solution? - Victor Varza, Adobe|[Watch Here](https://www.youtube.com/watch?v=39FLsSc2P-Y)|[Slides](./slides/lightning-talk-what-makes-a-good-multi-tenant-kubernetes-solution-victor-varza-adobe.pdf)|
 
 ## Unsorted
@@ -397,7 +394,7 @@ SIG-Network Intro & Deep-Dive - Tim Hockin, Google & Vallery Lancey, Lyft|[Watch
 |Am I Using It Right? Checking Best Practices on Live Kuber... Varsha Varadarajan & Adam Wolfe Gordon|[Watch Here](https://www.youtube.com/watch?v=R3u2CqCJkSU)| - |
 |A Week in the Life of the Kubernetes Community - Dawn Foster, Pivotal & Jorge Castro, VMware|[Watch Here](https://www.youtube.com/watch?v=unewi6wFwmI)|[Slides](./slides/a-week-in-the-life-of-the-kubernetes-community-dawn-foster-pivotal-jorge-castro-vmware.pdf)|
 |Day 2 Operations with Windows Containers - Michael Michael, VMware & Patrick Lang, Microsoft|[Watch Here](https://www.youtube.com/watch?v=t_e8SSkpdxU)|[Slides](./slides/day-2-operations-with-windows-containers-michael-michael-vmware-patrick-lang-microsoft.pdf)|
-|Using TUF and in-toto to Tighten the Release Process. - Santiago Torres-Arias & Justin Cappos|[Watch Here](https://www.youtube.com/watch?v=RzxDLrQgEzo)| [Slides] (./slides/ ) |
+|Using TUF and in-toto to Tighten the Release Process. - Santiago Torres-Arias & Justin Cappos|[Watch Here](https://www.youtube.com/watch?v=RzxDLrQgEzo)|-|
 |CNCF Research User Group - Bob Killen, University of Michigan|[Watch Here](https://www.youtube.com/watch?v=5WacjeanofM)|[Slides](./slides/cncf-research-user-group-bob-killen-university-of-michigan.pdf)|
 |Going Beyond the Node – Using VK to Realize Crazy Ideas - Brian Goff & Deep Kapur|[Watch Here](https://www.youtube.com/watch?v=tUPB39pNpEU)|[Slides](./slides/going-beyond-the-node-using-vk-to-realize-crazy-ideas-brian-goff-deep-kapur-microsoft.pdf)|
 |Fidelity’s Move to “Finance Grade” Kubernetes with... Alexis Richardson & Rajarajan Pudupatti SJ|[Watch Here](https://www.youtube.com/watch?v=9xIG4lze7Uo)| - |
